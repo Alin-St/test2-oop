@@ -1,0 +1,3 @@
+Type: Block, Address: "Str. Soarelui, nr 96; restore, !demolish", Construction year: 1900, Total apartments: 25, Occupied apartments: 24
+Type: House, Address: "Str. Andrei Muresanu, Loc Cluj, nr 8; restore, !demolish", Construction year: 1900, Is Historical: 1
+Type: House, Address: "str. stradei", Construction year: 1900, Is Historical: 0

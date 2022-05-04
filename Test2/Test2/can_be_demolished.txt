@@ -1,0 +1,3 @@
+Type: Block, Address: "Str. Lalelelor, nr 5; !restore, demolish", Construction year: 2010, Total apartments: 40, Occupied apartments: 1
+Type: House, Address: "Str. Unirii, Loc Bistrita, nr 10; !restore, demolish", Construction year: 2010, Is Historical: 0
+Type: House, Address: "str. stradei", Construction year: 1900, Is Historical: 0
